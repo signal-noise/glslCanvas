@@ -46,7 +46,7 @@
         "uglify-es": "^3.1.6"
     },
     "dependencies": {
-        "xhr": "^2.5.0"
+        "xhr": "^2.6.0"
     },
     "browserify-shim": {}
 }
